@@ -1,8 +1,8 @@
 # rb_lpi_project
-Proyecto bus-app vagrant, docker, compose, swarm, stack, scale proxy
+# Proyecto bus-app vagrant, docker, compose, swarm, stack, scale proxy
 
 # Contenedores en DockerHub
-https://hub.docker.com/u/rbq4ds
+# https://hub.docker.com/u/rbq4ds
 
 # PROCESO AUTOMATIZADO CON VAGRANT
 0- NODOS --> Manager / Nodo1
