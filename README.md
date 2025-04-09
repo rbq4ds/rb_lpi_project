@@ -23,7 +23,7 @@ docker service ps rbmstack_proxy
 docker network ls
 
 # Probar desde navegador o curl Equipo anfitrión (redirección de puertos correcta)
-http://loccalhost:8080
+"http://localhost:8080"
 
 
 
