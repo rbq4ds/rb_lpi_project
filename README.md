@@ -1,8 +1,8 @@
 # rb_lpi_project
-# Proyecto bus-app vagrant, docker, compose, swarm, stack, scale proxy
+Proyecto bus-app vagrant, docker, compose, swarm, stack, scale proxy
 
 # Contenedores en DockerHub
-# https://hub.docker.com/u/rbq4ds
+https://hub.docker.com/u/rbq4ds
 
 # PROCESO AUTOMATIZADO CON VAGRANT
 0- NODOS --> Manager / Nodo1
@@ -13,6 +13,7 @@
 5- Se escala el proxy (scale=4)
 
 # Comandos de comprobación de la infraestructura desde manager
+vagrant ssh manager
 docker stack ls
 docker stack inspect rbmstack (nombre del stack, se puede modificar)
 docker service ls
